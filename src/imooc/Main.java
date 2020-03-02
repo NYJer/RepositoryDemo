@@ -10,6 +10,9 @@ public class Main {
         System.out.println("sayHello master");
     }
 
-
+    public void sayHello()
+    {
+        System.out.println("say Hello");
+    }
 
 }
