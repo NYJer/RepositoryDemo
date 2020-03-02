@@ -8,7 +8,7 @@ public class Main {
     public void sayHello()
     {
         System.out.println("sayHello master");
-        System.out.println("say Hello");
+
     }
 
 
